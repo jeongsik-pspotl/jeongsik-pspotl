@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongsik-pspotl&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Visitor Count](https://komarev.com/ghpvc/?username=jeongsik-pspotl&color=brightgreen&style=flat-square)](https://github.com/jeongsik-pspotl)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongsik-pspotl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeongsik-pspotl&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongsik-pspotl&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeongsik-pspotl&theme=transparent)](https://github.com/vn7n24fzkgq/github-profile-summary-cards)
+
 <!--
 **jeongsik-pspotl/jeongsik-pspotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
